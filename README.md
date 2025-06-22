@@ -5,10 +5,6 @@
 ###
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=piotrszwedo.piotrszwedo&"  />
-</div>
-
 ###
 
 <h1 align="center">Hello There👋</h1>
@@ -48,8 +44,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piotrszwedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=piotrszwedo&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=piotrszwedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=piotrszwedo&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
