@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Piotr from Poland<br><br>- 🔭 I’m working on <a href="http://github.com/piotrSzwedo/ESKUEL/">eskuelMyAdmin</a><br>- 📚 I'm currently learning Goland<br>- ⚡ In my free time I like sleep</p>
+<p align="left">I'm Piotr from Poland<br><br>- 🔭 I'm currnetly work on developing my career<br>- 📚 I'm currently learning Goland<br>- ⚡ In my free time I like sleep</p>
 
 ###
 
