@@ -66,8 +66,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piotrszwedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My%20Stats" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=piotrszwedo&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=piotrszwedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My%20Stats" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=piotrszwedo&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piotrszwedo&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&bg_color=020710&point=d80000&custom_title=contribution%20graph" height="300" alt="activity-graph graph"  />
 </div>
 
