@@ -1,11 +1,21 @@
 <div align="center">
-  <img src="https://github.com/PiotrSzwedo/PiotrSzwedo/raw/main/image.png?raw=true"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ac0000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Piotr+%F0%9F%91%8B;Backend+Dev+from+Poland+%F0%9F%87%B5%F0%9F%87%B1;" alt="Typing Text" />
 </div>
-<h1 align="center"></h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
+``` go
+type Developer struct {
+    Name       string   = "Piotr"
+    Country    string   = "Poland"
+    Currently  string   = "Learning something"
+}
+```
+
 
 ###
 
@@ -13,13 +23,11 @@
 
 ###
 
-<p align="left">I'm Piotr from Poland<br><br>- 🔭 I'm currnetly work on developing my career<br>- 📚 I'm currently learning Goland<br>- ⚡ In my free time I like sleep</p>
+<h3 align="left" style="margin: 0px 20px">🛠 Languages and tools</h3>
 
 ###
 
-<h3 align="left">🛠 Language</h3>
-
-###
+<h4>Languages</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="40" alt="go logo"  />
@@ -39,11 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"  />
 </div>
 
-###
-
-<h3 align="left">🛠 My tools</h3>
-
-###
+<h4>Tools</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
@@ -59,9 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="40" alt="apache logo"  />
 </div>
 
-###
-
-<h3 align="left">📊 My Stats :</h3>
+<h2 align="left">📊 My Stats :</h2>
 
 ###
 
