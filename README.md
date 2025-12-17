@@ -8,12 +8,12 @@
 
 ###
 
-``` go
-type Developer struct {
-    Name       string   = "Piotr"
-    Country    string   = "Poland"
-    Currently  string   = "Learning something"
-}
+``` python
+class Developer:
+    def __init__(self):
+        self.name = "Piotr"
+        self.country = "Poland"
+        self.github = "github.com/piotrszwedo"
 ```
 
 
