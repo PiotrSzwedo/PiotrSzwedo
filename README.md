@@ -7,12 +7,6 @@ class Developer:
         self.editors = ["PhpStorm", "Visual Studio Code", "PyCharm", "IntelliJ"]
 ```
 
-<div align="center">
-
-<img src="./banner.png">
-
-</div>
-
 I am a novice programmer with practical knowledge of PHP, Java, JavaScript, HTML, CSS, SQL and the Git version control
 system. I have experience working with tools such as Visual Studio Code, IntelliJ IDEA, PyCharm and containerization
 technologies (Docker). I am comfortable in Windows and Linux environments, both desktop and server.
@@ -28,8 +22,9 @@ technologies (Docker). I am comfortable in Windows and Linux environments, both 
 ## 📞 Contact
 
 
-- [piotrszwedo2007@gmail.com](mailto:piotrszwedo2007@gmail.com)
-- [LinkedIn: /in/piotrszwedo](https://linkedin.com/in/piotrszwedo)
+
+- <img align="center" src="./contact-methods/email.svg" width="16px"/> <a style="color: #ac0000; cursor: pointer" href="mailto:piotrszwedo2007@gmail.com">piotrszwedo2007@gmail.com</a>
+- <img align="center" src="./contact-methods/linkedin.svg" width="16px"/> <a style="color: #ac0000; cursor: pointer" href="https://linkedin.com/in/piotrszwedo">/in/piotrszwedo</a>
 
 ## 📌 My pinned projects
 
