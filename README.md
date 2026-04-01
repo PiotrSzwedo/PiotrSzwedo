@@ -4,6 +4,7 @@ class Developer:
         self.name = "Piotr"
         self.country = "Poland"
         self.github = "github.com/piotrszwedo"
+        self.linkedin = 'linkedin/in/piotrszwedo'
         self.editors = ["PhpStorm", "Visual Studio Code", "PyCharm", "IntelliJ"]
 ```
 
@@ -13,21 +14,67 @@ technologies (Docker). I am comfortable in Windows and Linux environments, both 
 
 ---
 
-## 🛠 My skills
+## 🛠 My tech stack
 
+<table>
 
-<div align="center"> <table align="center"> <tr> <td align="center"> <img src="./skills/docker.svg" width="45px" /> <p style="margin: 0px;">Docker</p> </td> <td align="center"> <img src="./skills/python.svg" width="45px" /> <p style="margin: 0px;">Python</p> </td> <td align="center"> <img src="./skills/css.svg" width="45px" /> <p style="margin: 0px;">CSS</p> </td> <td align="center"> <img src="./skills/git.svg" width="45px" /> <p style="margin: 0px;">Git</p> </td> </tr> <tr> <td align="center"> <img src="./skills/go.svg" width="45px" /> <p style="margin: 0px;">Go</p> </td> <td align="center"> <img src="./skills/html.svg" width="45px" /> <p style="margin: 0px;">HTML</p> </td> <td align="center"> <img src="./skills/java.svg" width="45px" /> <p style="margin: 0px;">Java</p> </td> <td align="center"> <img src="./skills/javascript.svg" width="45px" /> <p style="margin: 0px;">JavaScript</p> </td> </tr> <tr> <td align="center"> <img src="./skills/php.svg" width="45px" /> <p style="margin: 0px;">PHP</p> </td> <td align="center"> <img src="./skills/typescript.svg" width="45px" /> <p style="margin: 0px;">TypeScript</p> </td> <td align="center"> <img src="./skills/sql.svg" width="45px" /> <p style="margin: 0px;">SQL</p> </td> <td align="center"> <img src="./skills/ubuntu.svg" width="45px" /> <p style="margin: 0px;">Ubuntu</p> </td> </tr> <tr> <td align="center"> <img src="./skills/fedora.svg" width="45px" /> <p style="margin: 0px;">Fedora</p> </td> <td align="center"> <img src="./skills/windows.svg" width="45px" /> <p style="margin: 0px;">Windows</p> </td> <td align="center"> <img src="./skills/computers-networks.svg" width="45px" /> <p style="margin: 0px;">Computers <br> networks</p> </td> <td align="center"> <img src="./skills/apache.svg" width="45px" /> <p style="margin: 0px;">Apache</p> </td> </tr> </table> </div>
-
+<div align="center"> 
+<table align="center">
+  <tr> 
+    <td align="center" colspan="4"><h3 style="margin: 0px;">Programing Languages</h3> </td>
+  </tr>
+  <tr> 
+    <td align="center" colspan="2"> <img src="./skills/python.svg" width="45px" /> <p style="margin: 0px;">Python</p> </td>
+    <td align="center"> <img src="./skills/typescript.svg" width="45px" /> <p style="margin: 0px;">TypeScript</p> </td>
+    <td align="center"> <img src="./skills/go.svg" width="45px" /> <p style="margin: 0px;">GO</p> </td>
+  </tr>
+  <tr> 
+    <td align="center"> <img src="./skills/java.svg" width="45px" /> <p style="margin: 0px;">Java</p> </td> 
+    <td align="center"> <img src="./skills/javascript.svg" width="45px" /> <p style="margin: 0px;">JavaScript</p> </td> 
+    <td align="center" colspan="2"> <img src="./skills/php.svg" width="45px" /> <p style="margin: 0px;">PHP</p> </td>
+  </tr>
+  <tr> 
+    <td align="center" colspan="4"><h3 style="margin: 0px;">Markup & Styling Languages</h3> </td>
+  </tr>
+  <tr> 
+    <td align="center"> <img src="./skills/css.svg" width="45px" /> <p style="margin: 0px;">CSS</p> </td> 
+    <td align="center" colspan="2"> <img src="./skills/json.svg" width="45px" /> <p style="margin: 0px;">JSON</p> </td>
+    <td align="center"> <img src="./skills/html.svg" width="45px" /> <p style="margin: 0px;">HTML</p> </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><h3 style="margin: 0px;">Operating Systems</h3> </td>
+  </tr>
+  <tr> 
+    <td align="center"> <img src="./skills/fedora.svg" width="45px" /> <p style="margin: 0px;">Fedora</p> </td> 
+    <td align="center" colspan="2"> <img src="./skills/ubuntu.svg" width="45px" /> <p style="margin: 0px;">Ubuntu</p> </td> 
+    <td align="center"> <img src="./skills/windows.svg" width="45px" /> <p style="margin: 0px;">Windows</p> </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><h3 style="margin: 0px;">Databases tools & Query Languages</h3> </td>
+  </tr>
+  <tr> 
+    <td align="center" colspan="2"> <img src="./skills/sql.svg" width="45px" /> <p style="margin: 0px;">SQL</p> </td> 
+    <td align="center" colspan="2"> <img src="./skills/mysqlworkbench.svg" width="45px" /> <p style="margin: 0px;">My SQL Workbench</p> </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><h3 style="margin: 0px;">DevOps & Version Control <br> Tools</h3> </td>
+    <td align="center" colspan="2"><h3 style="margin: 0px;">CMS & Workflow</h3> </td>
+  </tr>
+  <tr> 
+    <td align="center"> <img src="./skills/docker.svg" width="45px" /> <p style="margin: 0px;">Docker</p> </td> 
+    <td align="center"> <img src="./skills/git.svg" width="45px" /> <p style="margin: 0px;">Git</p> </td>
+    <td align="center"> <img src="./skills/n8n.svg" width="45px" /> <p style="margin: 0px;">n8n</p> </td>
+<td align="center"> <img src="./skills/wordpress.svg" width="45px" /> <p style="margin: 0px;">Wordpress</p> </td>
+  </tr>
+</table> 
+</div>
 
 ## 📞 Contact
-
-
 
 - <img align="center" src="./contact-methods/email.svg" width="16px"/> <a style="color: #ac0000; cursor: pointer" href="mailto:piotrszwedo2007@gmail.com">piotrszwedo2007@gmail.com</a>
 - <img align="center" src="./contact-methods/linkedin.svg" width="16px"/> <a style="color: #ac0000; cursor: pointer" href="https://linkedin.com/in/piotrszwedo">/in/piotrszwedo</a>
 
 ## 📌 My pinned projects
-
 
 - [**ESKUEL**](https://github.com/PiotrSzwedo/ESKUEL): ESKUEL is an educational app that allows easy addition, deletion,
   and connection to databases. It supports standard SQL queries, as well as a Polish version of SQL - ESKUEL.
@@ -36,7 +83,6 @@ technologies (Docker). I am comfortable in Windows and Linux environments, both 
 
 
 ## 📊 My Stats
-
 
 <details>
   <summary>Click to see my stats</summary>
