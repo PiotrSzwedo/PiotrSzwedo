@@ -54,7 +54,7 @@ technologies (Docker). I am comfortable in Windows and Linux environments, both 
   </tr>
   <tr> 
     <td align="center" colspan="2"> <img src="./skills/sql.svg" width="45px" /> <p style="margin: 0px;">SQL</p> </td> 
-    <td align="center" colspan="2"> <img src="./skills/mysqlworkbench.svg" width="45px" /> <p style="margin: 0px;">My SQL Workbench</p> </td>
+    <td align="center" colspan="2"> <img src="./skills/mysqlworkbench.svg" width="45px" /> <p style="margin: 0px;">MySQL Workbench</p> </td>
   </tr>
   <tr>
     <td align="center" colspan="2"><h3 style="margin: 0px;">DevOps & Version Control <br> Tools</h3> </td>
