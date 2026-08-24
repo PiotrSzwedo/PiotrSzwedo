@@ -7,92 +7,109 @@ class Developer:
         self.linkedin = 'linkedin/in/piotrszwedo'
         self.editors = ["PhpStorm", "Visual Studio Code", "PyCharm", "IntelliJ"]
 ```
+# Piotr Szwedo
 
-I am a novice programmer with practical knowledge of PHP, Java, JavaScript, HTML, CSS, SQL and the Git version control
-system. I have experience working with tools such as Visual Studio Code, IntelliJ IDEA, PyCharm and containerization
-technologies (Docker). I am comfortable in Windows and Linux environments, both desktop and server.
+**Software Developer · IT · Automation · Experimental Technologies**
+
+I build software, automate processes and explore new technologies.
+
+## 🧪 What I build
+
+- Software & web applications
+- Automation & integrations
+- APIs & backend systems
+- Developer tools
+- Infrastructure & containerized environments
+- Experimental projects & prototypes
 
 ---
 
-## 🛠 My tech stack
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
 
 <table>
+  <tr>
+    <td align="center"><img src="./skills/python.svg" width="45px"/><br>Python</td>
+    <td align="center"><img src="./skills/typescript.svg" width="45px"/><br>TypeScript</td>
+    <td align="center"><img src="./skills/go.svg" width="45px"/><br>Go</td>
+    <td align="center"><img src="./skills/java.svg" width="45px"/><br>Java</td>
+    <td align="center"><img src="./skills/javascript.svg" width="45px"/><br>JavaScript</td>
+    <td align="center"><img src="./skills/php.svg" width="45px"/><br>PHP</td>
+  </tr>
+</table>
 
-<div align="center"> 
-<table align="center">
-  <tr> 
-    <td align="center" colspan="4"><h3 style="margin: 0px;">Programing Languages</h3> </td>
-  </tr>
-  <tr> 
-    <td align="center" colspan="2"> <img src="./skills/python.svg" width="45px" /> <p style="margin: 0px;">Python</p> </td>
-    <td align="center"> <img src="./skills/typescript.svg" width="45px" /> <p style="margin: 0px;">TypeScript</p> </td>
-    <td align="center"> <img src="./skills/go.svg" width="45px" /> <p style="margin: 0px;">GO</p> </td>
-  </tr>
-  <tr> 
-    <td align="center"> <img src="./skills/java.svg" width="45px" /> <p style="margin: 0px;">Java</p> </td> 
-    <td align="center"> <img src="./skills/javascript.svg" width="45px" /> <p style="margin: 0px;">JavaScript</p> </td> 
-    <td align="center" colspan="2"> <img src="./skills/php.svg" width="45px" /> <p style="margin: 0px;">PHP</p> </td>
-  </tr>
-  <tr> 
-    <td align="center" colspan="4"><h3 style="margin: 0px;">Markup & Styling Languages</h3> </td>
-  </tr>
-  <tr> 
-    <td align="center"> <img src="./skills/css.svg" width="45px" /> <p style="margin: 0px;">CSS</p> </td> 
-    <td align="center" colspan="2"> <img src="./skills/json.svg" width="45px" /> <p style="margin: 0px;">JSON</p> </td>
-    <td align="center"> <img src="./skills/html.svg" width="45px" /> <p style="margin: 0px;">HTML</p> </td>
-  </tr>
+### Web & Data
+
+<table>
   <tr>
-    <td align="center" colspan="4"><h3 style="margin: 0px;">Operating Systems</h3> </td>
+    <td align="center"><img src="./skills/html.svg" width="45px"/><br>HTML</td>
+    <td align="center"><img src="./skills/css.svg" width="45px"/><br>CSS</td>
+    <td align="center"><img src="./skills/json.svg" width="45px"/><br>JSON</td>
+    <td align="center"><img src="./skills/sql.svg" width="45px"/><br>SQL</td>
+    <td align="center"><img src="./skills/mysqlworkbench.svg" width="45px"/><br>MySQL</td>
   </tr>
-  <tr> 
-    <td align="center"> <img src="./skills/fedora.svg" width="45px" /> <p style="margin: 0px;">Fedora</p> </td> 
-    <td align="center" colspan="2"> <img src="./skills/ubuntu.svg" width="45px" /> <p style="margin: 0px;">Ubuntu</p> </td> 
-    <td align="center"> <img src="./skills/windows.svg" width="45px" /> <p style="margin: 0px;">Windows</p> </td>
-  </tr>
+</table>
+
+### Infrastructure & Tools
+
+<table>
   <tr>
-    <td align="center" colspan="4"><h3 style="margin: 0px;">Databases tools & Query Languages</h3> </td>
+    <td align="center"><img src="./skills/docker.svg" width="45px"/><br>Docker</td>
+    <td align="center"><img src="./skills/git.svg" width="45px"/><br>Git</td>
+    <td align="center"><img src="./skills/n8n.svg" width="45px"/><br>n8n</td>
+    <td align="center"><img src="./skills/wordpress.svg" width="45px"/><br>WordPress</td>
   </tr>
-  <tr> 
-    <td align="center" colspan="2"> <img src="./skills/sql.svg" width="45px" /> <p style="margin: 0px;">SQL</p> </td> 
-    <td align="center" colspan="2"> <img src="./skills/mysqlworkbench.svg" width="45px" /> <p style="margin: 0px;">MySQL Workbench</p> </td>
-  </tr>
+</table>
+
+### Environments
+
+<table>
   <tr>
-    <td align="center" colspan="2"><h3 style="margin: 0px;">DevOps & Version Control <br> Tools</h3> </td>
-    <td align="center" colspan="2"><h3 style="margin: 0px;">CMS & Workflow</h3> </td>
+    <td align="center"><img src="./skills/fedora.svg" width="45px"/><br>Fedora</td>
+    <td align="center"><img src="./skills/ubuntu.svg" width="45px"/><br>Ubuntu</td>
+    <td align="center"><img src="./skills/windows.svg" width="45px"/><br>Windows</td>
   </tr>
-  <tr> 
-    <td align="center"> <img src="./skills/docker.svg" width="45px" /> <p style="margin: 0px;">Docker</p> </td> 
-    <td align="center"> <img src="./skills/git.svg" width="45px" /> <p style="margin: 0px;">Git</p> </td>
-    <td align="center"> <img src="./skills/n8n.svg" width="45px" /> <p style="margin: 0px;">n8n</p> </td>
-<td align="center"> <img src="./skills/wordpress.svg" width="45px" /> <p style="margin: 0px;">Wordpress</p> </td>
-  </tr>
-</table> 
+</table>
+
 </div>
 
-## 📞 Contact
+---
 
-- <img align="center" src="./contact-methods/email.svg" width="16px"/> <a style="color: #ac0000; cursor: pointer" href="mailto:piotrszwedo2007@gmail.com">piotrszwedo2007@gmail.com</a>
-- <img align="center" src="./contact-methods/linkedin.svg" width="16px"/> <a style="color: #ac0000; cursor: pointer" href="https://linkedin.com/in/piotrszwedo">/in/piotrszwedo</a>
+## 🔬 Projects
 
-## 📌 My pinned projects
+### [ESKUEL](https://github.com/PiotrSzwedo/ESKUEL)
 
-- [**ESKUEL**](https://github.com/PiotrSzwedo/ESKUEL): ESKUEL is an educational app that allows easy addition, deletion,
-  and connection to databases. It supports standard SQL queries, as well as a Polish version of SQL - ESKUEL.
-- [**Termy-backend**](https://github.com/smartfrigde/termy-backend): Termy-backend is an advanced API and proxy server
-  for managing SSH and GPG keys, created for developers, system administrators, and teams.
+An educational application for working with databases.
+ESKUEL supports standard SQL as well as a Polish-inspired SQL syntax.
 
+### [Termy-backend](https://github.com/smartfrigde/termy-backend)
 
-## 📊 My Stats
+An API and proxy server for managing SSH and GPG keys,
+designed for developers, system administrators and teams.
 
-<details>
-  <summary>Click to see my stats</summary>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piotrszwedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=My%20Stats)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=piotrszwedo&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piotrszwedo&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&bg_color=020710&point=d80000&custom_title=contribution%20graph)
-
-</details>
+More experiments and projects can be found across my repositories.
 
 ---
+
+## 🌐 Find me
+
+- 💼 **LinkedIn** — [linkedin.com/in/piotrszwedo](https://linkedin.com/in/piotrszwedo)
+- 📧 **Email** — piotrszwedo2007@gmail.com
+
+---
+
+## 📊 GitHub
+
+<details>
+<summary>Stats</summary>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piotrszwedo&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=piotrszwedo&theme=github-dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piotrszwedo&theme=github-dark-dimmed&area=true&hide_border=true&bg_color=020710&point=d80000)
+
+</details>
