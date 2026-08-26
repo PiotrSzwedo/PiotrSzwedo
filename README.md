@@ -29,8 +29,10 @@ class Developer:
         self.editors = ["PhpStorm", "Visual Studio Code", "PyCharm", "IntelliJ"]
         
     def find_me(self, your_name):
-        print("LinkedIn — linkedin.com/in/piotrszwedo")
-        print("Email — piotrszwedo2007@gmail.com"
+        print(f"👋 Hey {your_name}!")
+        print("🔗 LinkedIn → linkedin.com/in/piotrszwedo")
+        print("📧 Email    → piotrszwedo2007@gmail.com")
+
 ```
 ---
 
