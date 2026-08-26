@@ -1,7 +1,7 @@
 ``` java
     System.out.println("Hi evryone, \n I am...")
 ```
-<img src="img.webp" width="330" align="right">
+<img src="img.webp" width="330" align="right" z>
 
 <img src="name.png" width="300">
 
@@ -9,7 +9,7 @@
 
 I build software, automate processes and explore new technologies.
 
-## 🧪 What I build
+<strong>🧪 What I build</strong>
 
 - Software & web applications
 - Automation & integrations
