@@ -1,5 +1,5 @@
 ``` java
-    System.out.println("Hi evryone, \n I am...")
+System.out.println("Hi everyone, I am...");
 ```
 <img src="img.webp" width="330" align="right" z>
 
