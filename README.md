@@ -1,13 +1,9 @@
-``` python
-class Developer:
-    def __init__(self):
-        self.name = "Piotr"
-        self.country = "Poland"
-        self.github = "github.com/piotrszwedo"
-        self.linkedin = 'linkedin/in/piotrszwedo'
-        self.editors = ["PhpStorm", "Visual Studio Code", "PyCharm", "IntelliJ"]
+``` java
+    System.out.println("Hi evryone, \n I am...")
 ```
-# Piotr Szwedo
+<img src="img.webp" width="330" align="right">
+
+<img src="name.png" width="300">
 
 **Software Developer · IT · Automation · Experimental Technologies**
 
@@ -22,6 +18,20 @@ I build software, automate processes and explore new technologies.
 - Infrastructure & containerized environments
 - Experimental projects & prototypes
 
+---
+
+``` python
+class Developer:
+    def __init__(self):
+        self.name = "Piotr"
+        self.country = "Poland"
+        self.github = "github.com/piotrszwedo"
+        self.editors = ["PhpStorm", "Visual Studio Code", "PyCharm", "IntelliJ"]
+        
+    def find_me(self, your_name):
+        print("LinkedIn — linkedin.com/in/piotrszwedo")
+        print("Email — piotrszwedo2007@gmail.com"
+```
 ---
 
 ## 🛠 Tech Stack
@@ -100,16 +110,3 @@ More experiments and projects can be found across my repositories.
 - 📧 **Email** — piotrszwedo2007@gmail.com
 
 ---
-
-## 📊 GitHub
-
-<details>
-<summary>Stats</summary>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piotrszwedo&show_icons=true&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=piotrszwedo&theme=github-dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piotrszwedo&theme=github-dark-dimmed&area=true&hide_border=true&bg_color=020710&point=d80000)
-
-</details>
