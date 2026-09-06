@@ -1,5 +1,5 @@
 ``` java
-    System.out.println("Hi evryone, \n I am...")
+System.out.println("Hi everyone, I am...");
 ```
 <img src="img.webp" width="330" align="right" z>
 
@@ -29,8 +29,10 @@ class Developer:
         self.editors = ["PhpStorm", "Visual Studio Code", "PyCharm", "IntelliJ"]
         
     def find_me(self, your_name):
-        print("LinkedIn — linkedin.com/in/piotrszwedo")
-        print("Email — piotrszwedo2007@gmail.com"
+        print(f"👋 Hey {your_name}!")
+        print("🔗 LinkedIn → linkedin.com/in/piotrszwedo")
+        print("📧 Email    → piotrszwedo2007@gmail.com")
+
 ```
 ---
 
