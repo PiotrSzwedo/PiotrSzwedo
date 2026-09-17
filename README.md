@@ -110,5 +110,6 @@ More experiments and projects can be found across my repositories.
 
 - 💼 **LinkedIn** — [linkedin.com/in/piotrszwedo](https://linkedin.com/in/piotrszwedo)
 - 📧 **Email** — piotrszwedo2007@gmail.com
+- 💬 **Discord** — unlxsted_
 
 ---
