@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="34" viewBox="0 0 166 34">
+    <a href="#-projects">
+        <rect
+                x="0.5"
+                y="0.5"
+                width="165"
+                height="33"
+                rx="17"
+                fill="none"
+                stroke="red"
+        />
+        <text
+                x="83"
+                y="17"
+                fill="red"
+                font-family="Arial, sans-serif"
+                font-size="13"
+                text-anchor="middle"
+                dominant-baseline="middle"
+        >Check my projects</text>
+    </a>
+</svg>

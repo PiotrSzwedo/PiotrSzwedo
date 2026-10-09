@@ -1,22 +1,37 @@
+<img src="banner.webp">
+
 ``` java
 System.out.println("Hi everyone, I am...");
 ```
-<img src="img.webp" width="330" align="right" z>
+
+
+**Your IT partner**
+
+<img src="img.webp" width="330" align="right">
 
 <img src="name.png" width="300">
-
-**Software Developer · IT · Automation · Experimental Technologies**
 
 I build software, automate processes and explore new technologies.
 
 <strong>🧪 What I build</strong>
 
 - Software & web applications
-- Automation & integrations
+- Scripts for tasks automation & integrations
 - APIs & backend systems
-- Developer tools
-- Infrastructure & containerized environments
-- Experimental projects & prototypes
+
+<strong>What I like to do</strong>
+
+- Experimenting with technologies and testing the limits of my skills.
+
+<div align="center">
+  <a href="#-projects">
+    <img src="images/check-button.svg" alt="Check my projects">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-find-me">
+    <img src="images/find-button.svg" alt="Find me">
+  </a>
+</div>
 
 ---
 
@@ -40,49 +55,85 @@ class Developer:
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
 <table>
   <tr>
-    <td align="center"><img src="./skills/python.svg" width="45px"/><br>Python</td>
-    <td align="center"><img src="./skills/typescript.svg" width="45px"/><br>TypeScript</td>
-    <td align="center"><img src="./skills/go.svg" width="45px"/><br>Go</td>
-    <td align="center"><img src="./skills/java.svg" width="45px"/><br>Java</td>
-    <td align="center"><img src="./skills/javascript.svg" width="45px"/><br>JavaScript</td>
-    <td align="center"><img src="./skills/php.svg" width="45px"/><br>PHP</td>
+    <td align="center" width="120">
+      <img src="./skills/python.svg" width="40" height="40" alt="Python"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/typescript.svg" width="40" height="40" alt="TypeScript"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/go.svg" width="40" height="40" alt="Go"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/java.svg" width="40" height="40" alt="Java"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/javascript.svg" width="40" height="40" alt="JavaScript"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/php.svg" width="40" height="40" alt="PHP"><br>
+    </td>
   </tr>
 </table>
 
-### Web & Data
+### 🌐 Web & Data
 
 <table>
   <tr>
-    <td align="center"><img src="./skills/html.svg" width="45px"/><br>HTML</td>
-    <td align="center"><img src="./skills/css.svg" width="45px"/><br>CSS</td>
-    <td align="center"><img src="./skills/json.svg" width="45px"/><br>JSON</td>
-    <td align="center"><img src="./skills/sql.svg" width="45px"/><br>SQL</td>
-    <td align="center"><img src="./skills/mysqlworkbench.svg" width="45px"/><br>MySQL</td>
+    <td align="center" width="120">
+      <img src="./skills/html.svg" width="40" height="40" alt="HTML"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/css.svg" width="40" height="40" alt="CSS"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/json.svg" width="40" height="40" alt="JSON"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/sql.svg" width="40" height="40" alt="SQL"><br>
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/mysqlworkbench.svg" width="40" height="40" alt="MySQL"><br>
+    </td>
   </tr>
 </table>
 
-### Infrastructure & Tools
+### ⚙️ Infrastructure & Tools
 
 <table>
   <tr>
-    <td align="center"><img src="./skills/docker.svg" width="45px"/><br>Docker</td>
-    <td align="center"><img src="./skills/git.svg" width="45px"/><br>Git</td>
-    <td align="center"><img src="./skills/n8n.svg" width="45px"/><br>n8n</td>
-    <td align="center"><img src="./skills/wordpress.svg" width="45px"/><br>WordPress</td>
+    <td align="center" width="120">
+      <img src="./skills/docker.svg" width="20" height="20" alt="Docker">
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/git.svg" width="20" height="20" alt="Git">
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/n8n.svg" width="20" height="20" alt="n8n">
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/wordpress.svg" width="20" height="20" alt="WordPress">
+    </td>
   </tr>
 </table>
 
-### Environments
+### 🖥️ Environments
 
 <table>
   <tr>
-    <td align="center"><img src="./skills/fedora.svg" width="45px"/><br>Fedora</td>
-    <td align="center"><img src="./skills/ubuntu.svg" width="45px"/><br>Ubuntu</td>
-    <td align="center"><img src="./skills/windows.svg" width="45px"/><br>Windows</td>
+    <td align="center" width="120">
+      <img src="./skills/fedora.svg" width="20" height="20" alt="Fedora">
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/ubuntu.svg" width="20" height="20" alt="Ubuntu">
+    </td>
+    <td align="center" width="120">
+      <img src="./skills/windows.svg" width="20" height="20" alt="Windows">
+    </td>
   </tr>
 </table>
 

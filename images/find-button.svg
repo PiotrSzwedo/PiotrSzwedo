@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="36" viewBox="0 0 100 36">
+    <a href="#-find-me">
+        <rect
+                x="0.5"
+                y="0.5"
+                width="99"
+                height="35"
+                rx="18"
+                fill="red"
+                stroke="red"
+        />
+        <text
+                x="50"
+                y="18"
+                fill="black"
+                font-family="Arial, sans-serif"
+                font-size="14"
+                text-anchor="middle"
+                dominant-baseline="middle"
+        >Find me</text>
+    </a>
+</svg>
